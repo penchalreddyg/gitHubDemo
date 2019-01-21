@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
            //Add By Penchal  New comment  New Comment by Prem
-            Console.Write("Hello"); 
+            Console.Write("Hello");  
         }
     }
 }
